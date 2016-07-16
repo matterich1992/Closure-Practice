@@ -1,4 +1,4 @@
 # Closure-Practice
 
-Demonstration of Scope anf returning functions.
+Demonstration of Scope and returning functions.
 Creation of private variables using Module Patterns
